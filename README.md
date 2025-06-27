@@ -31,3 +31,7 @@ This is a two-player Tic Tac Toe game built with HTML, CSS, and JavaScript. Play
 
 ## Contact
 Feel free to reach out for collaboration or feedback: aliraza972003@gmail.com
+
+#### Notes on the README:
+- **Live Demo**: I’ve included a placeholder GitHub Pages URL (`https://alidevhub.github.io/tic-tac-toe-game/`).
+<a target="blank" href="https://alidevhub.github.io/tic-tac-toe-game/">Live Demo</a>
